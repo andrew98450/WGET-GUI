@@ -1,0 +1,18 @@
+C:\Users\Anony\Desktop\WGET GUI\WGET GUI\bin\Debug\WGET GUI.exe
+C:\Users\Anony\Desktop\WGET GUI\WGET GUI\bin\Debug\WGET GUI.pdb
+C:\Users\Anony\Desktop\WGET GUI\WGET GUI\bin\Debug\WGET GUI.xml
+C:\Users\Anony\Desktop\WGET GUI\WGET GUI\obj\Debug\WGET_GUI.Form1.resources
+C:\Users\Anony\Desktop\WGET GUI\WGET GUI\obj\Debug\WGET_GUI.Resources.resources
+C:\Users\Anony\Desktop\WGET GUI\WGET GUI\obj\Debug\WGET GUI.vbproj.GenerateResource.Cache
+C:\Users\Anony\Desktop\WGET GUI\WGET GUI\obj\Debug\WGET GUI.exe
+C:\Users\Anony\Desktop\WGET GUI\WGET GUI\obj\Debug\WGET GUI.xml
+C:\Users\Anony\Desktop\WGET GUI\WGET GUI\obj\Debug\WGET GUI.pdb
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\WGET GUI\WGET GUI\obj\Debug\WGET GUI.exe
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\WGET GUI\WGET GUI\obj\Debug\WGET GUI.xml
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\WGET GUI\WGET GUI\obj\Debug\WGET GUI.pdb
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\WGET GUI\WGET GUI\bin\Debug\WGET GUI.exe
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\WGET GUI\WGET GUI\bin\Debug\WGET GUI.pdb
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\WGET GUI\WGET GUI\bin\Debug\WGET GUI.xml
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\WGET GUI\WGET GUI\obj\Debug\WGET_GUI.Form1.resources
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\WGET GUI\WGET GUI\obj\Debug\WGET_GUI.Resources.resources
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\WGET GUI\WGET GUI\obj\Debug\WGET GUI.vbproj.GenerateResource.Cache
